@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/cross.svg" alt="†" width="320" />
+  <img src="assets/cross.png" alt="cross" width="280" />
 </p>
 
 <h1 align="center">78rayy</h1>
