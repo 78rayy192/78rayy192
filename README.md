@@ -1,3 +1,3 @@
 ﻿<p align="center">
-  <img src="assets/cross.png" alt="†" width="420" />
+  <img src="assets/cross.png" alt="†" width="460" />
 </p>
