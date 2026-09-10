@@ -1,19 +1,13 @@
 ﻿<div align="center">
+  <img src="assets/profile.gif" height="160" alt="" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/jester.jpg" height="160" alt="" />
 
-# 78rayy192
+  <br/><br/>
 
-<img src="assets/profile.gif" alt="78rayy192" width="280" />
-
-<br/>
-
-<img src="assets/jester.jpg" alt="jester" width="420" />
-
----
-
-**black / white · noise · draft**
-
-`Immortal Draft` · code · discord bots · web
-
-[immortal-draft](https://github.com/78rayy192/immortal-draft)
-
+  **78rayy**
+  
+  † &nbsp; YVL &nbsp; †
+  
+  `vamp`
 </div>
