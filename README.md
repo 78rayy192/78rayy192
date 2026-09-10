@@ -1,13 +1,15 @@
-﻿<div align="center">
-  <img src="assets/profile.gif" height="160" alt="" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/jester.jpg" height="160" alt="" />
+﻿<p align="center">
+  <img src="https://media.giphy.com/media/IAzomXFegjNgNgK8us/giphy.gif" width="520" alt="opium" />
+</p>
 
-  <br/><br/>
+<h1 align="center">78rayy</h1>
 
-  **78rayy**
-  
-  † &nbsp; YVL &nbsp; †
-  
-  `vamp`
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/IdoSxjydZExNpIYJjs/giphy.gif" width="320" alt="carti" />
+</p>
+
+<p align="center">
+  <b>†&nbsp;&nbsp;YVL&nbsp;&nbsp;†</b>
+  <br/>
+  <sub>00pium · vamp · noise</sub>
+</p>
